@@ -1,0 +1,9 @@
+bin/**/**
+lib64/**/**
+lib/**/**
+share/**/**
+lib64
+webdriver/**/**
+__pycache__/**/**
+pyvenv.cfg
+output.csv
